@@ -51,9 +51,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -74,4 +74,3 @@ user_groups:
 ---
 
 Farrah Cato is an Associate Instructor of English at the University of Central Florida. Her research and teaching interests include Women’s Speculative Fiction, Magical Realism, Material Culture, World Literature, and American Literature, especially 19th-century women’s texts and slave narratives.
- 
